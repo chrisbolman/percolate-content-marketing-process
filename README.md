@@ -30,6 +30,7 @@ Don't leave people guessing how to do their job or who's responsible for what. L
 
 Social proof and credibility is important, but our message should never be “we are so wonderful/established/massive, you should do business with us.” Our work must connect with each customer individually, communicating real benefits that matter to them or solving problems/needs they have. The worst thing we can do is describe product features in a way our audience doesn’t care about or understand. You cannot bore someone into a purchase. You can't really help someone if you don't identify with them and care about their challenge(s).
 
+Here's how we develop content and manage our marketing campaigns:
 
 ## Step 1 - Brief
 
