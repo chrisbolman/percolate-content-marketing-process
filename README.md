@@ -42,7 +42,7 @@ Who are the stakeholders who need to be kept updated on the work? These people m
 #####Due Date / Deadline
 By when does this project neeed to be completed? What are different flights or phases?
 
-You can download a PDF brief template [here](https://learn.percolate.com/how-to-build-a-creative-brief/) [note: gated download]
+You can download a PDF brief template [here](https://learn.percolate.com/how-to-build-a-creative-brief/) [*note: gated download*]
 
 ## Step 2 - Proposal
 
