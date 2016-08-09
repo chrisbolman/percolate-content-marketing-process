@@ -8,7 +8,7 @@ Clear roles, responsibilities, and decision-makers minimize decision points and 
 ![alt tag](https://raw.githubusercontent.com/ChrisBolman/percolate-content-marketing-process/master/images/percolate-wip-marketing-responsibility-matrix-v1.png)
 As you can see there are nine steps for each campaign, project, or piece of content. Each step does not need to be observed and followed to the tee, but each step should at least be considered, like a checklist. Before moving to the next step, whoever's resposible for the project (or for moving it from its current step the next step) must make sure they've satisfied the requirements at that step (or that the requirements or the step itself doesn't apply in this particular case). 
 
-# Approach and Principles
+# Approach and Guiding Principles
 
 We operate around a few guiding principles:
 
@@ -160,9 +160,9 @@ Making sure everything works. Based on the nature of project this could be brows
 ## Step 8 - Distribution
 
 #####Owner
-Marketer
+Marketing Distribution Lead(s)
 
-Executing the distribution plan. The Marketer owns the distribution across all defined channels, external and internal. On occasions they will collaborate with other member of the marketing team to support the distribution.
+Now our channel leads execute their distribution and media plan(s). Channel owners own the distribution across all their defined channels, including both external and internal (examples: internal corporate communications, or communications to sales, field, or retail teams). On occasions they will collaborate with other teammates to support and complement their work.
 
 
 ## Step 9 - Analysis
