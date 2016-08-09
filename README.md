@@ -7,6 +7,26 @@ If you have any questions or suggestions for improvement, please email: chris.bo
 Clear roles, responsibilities, and decision-makers minimize decision points and help work get done faster. We start by documenting each step (phase) of our content marketing or campaign process, as well as who's involved at each step, and what we expect from them.
 ![alt tag](https://raw.githubusercontent.com/ChrisBolman/percolate-content-marketing-process/master/images/percolate-wip-marketing-responsibility-matrix-v1.png)
 As you can see there are nine steps for each campaign, project, or piece of content. Each step does not need to be observed and followed to the tee, but each step should at least be considered, like a checklist. Before moving to the next step, whoever's resposible for the project (or for moving it from its current step the next step) must make sure they've satisfied the requirements at that step (or that the requirements or the step itself doesn't apply in this particular case). 
+
+# Approach and Principles
+
+We operate around a few guiding principles:
+
+### Segment
+
++ We segment our work (content) by:
+..* Stage of the buyer journey
+..* Business objective
+..* Geography (market, location, or city)
+..* Target audience (the type of person we're looking to reach and persuade)
+
+These segments are used to create matrixes that help determine content volume priorities and targets (i.e., how much brand awareness marketing are we going to create vs. direct response content?).
+
+### Be Human and Don't Talk About (or to) Yourself
+
+Social proof and credibility is important, but your message should not be “we are so wonderful/established/massive, you should do business with us.” Your writing must connect with each customer individually, communicating real benefits that matter to them or solve problems/needs they have. The worst thing we can do is describe product features in a way our audience doesn’t care about or understand. You cannot bore someone into a purchase.
+
+
 ## Step 1 - Brief
 
 #####Owner
