@@ -53,11 +53,11 @@ The proposal outlines one or more proposed solutions recommended by the creative
 
 Upfront the Marketer and Creative, Project, or Campaign Lead should agree how much time is needed for the proposal stage. 
 
-*Small projects up to 1 day / 8hrs (example: a blog post, email campaign, or small community event)
++ Small projects up to 1 day / 8hrs (example: a blog post, email campaign, or small community event)
 
-*Medium projects up to 3 days / 24hrs (example: a website redesign or launch)
++ Medium projects up to 3 days / 24hrs (example: a website redesign or launch)
 
-*Large projects up to 5 days / 40hrs (example: a large, integrated campaign)
++ Large projects up to 5 days / 40hrs (example: a large, integrated campaign)
 
 
 Proposal template structure:
