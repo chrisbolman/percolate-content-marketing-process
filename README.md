@@ -22,7 +22,7 @@ We segment our work (content) by:
 
 These segments are used to create matrixes that help determine content volume priorities and targets (i.e., how much brand awareness marketing are we going to create vs. direct response content?).
 
-### Make Sure Roles, Responsibilities and Process are Clear.
+### Make Sure Roles, Responsibilities and Process are Clear
 
 Don't leave people guessing how to do their job or who's responsible for what. Lack of clarity creates inefficiency and mediocre work. Ensure through documentation, communication, and repetition that we establish the 'swim lanes' or guard rails for how work should be done. Leave enough room for creativity and trying to find shortcuts, but make sure everyone is oriented in the right direction first and knows how to work together before you start any work.
 
