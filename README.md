@@ -42,6 +42,9 @@ Who are the stakeholders who need to be kept updated on the work? These people m
 #####Due Date / Deadline
 By when does this project neeed to be completed? What are different flights or phases?
 
+#####Additional Notes (Optional Additional Requirements and/or Inspiration)
+If there are specific items that need to be completed (i.e., three 600x315 Facebook ads), include specs for those requirements here. If you're drawing inspiration from other sources or examples, include those here as well for guidance. Note any budget guidance, caps, or limitations.
+
 You can download a PDF brief template [here](https://learn.percolate.com/how-to-build-a-creative-brief/) [*note: gated download*]
 
 ## Step 2 - Proposal
@@ -74,4 +77,25 @@ Outline how we’re going to get this product in front of the people it's meant 
 The proposal document forms the draft for finalizing the project's scope. 
 
 All feedback on the proposal should be centralized, provided at the same time, and stored in Percolate. When necessary, a short review meeting should be convened by the project stakeholders to collect and agree on feedback before providing it to the creative or campaign team that responded to the brief. Iterate fast, provide feedback all at once, and come to a firm decision on the course forward as quickly as possible. 
+
+## Step 3 - Scope
+
+#####Owner
+Marketer or Business Lead
+
+The scope defines what we are making, to the content inventory level. The Marketer reviews the proposal to ensure we are solving the problem we set out in the brief, we are creating everything that needs to be made, and all technical and operational feasibility of the proposed solution are agreed upon.
+
+The scope extends the proposal description to create team alignment and clarify on the following:
+
+#####Deliverables
+The scope inventories all deliverables, including a list of distribution assets such as ads, social media promotions, emails, videos, etc. These deliverables may have links to supporting spec materials, and will be tasked out with due dates in Percolate (or elsewhere). If there are sub-components of a deliverable (example: a video has a script, a storyboard, production stills, footage, b-roll, and different edits), list and task all of those out as well. 
+
+#####Budget
+Once scope has been defined project budget can be allocated across executions to support production and distribution.
+
+#####Key Metrics
+The scope states the key metrics we’re going to use to measure if the project was successful.
+
+#####Timelines
+Agreed upon key milestones for the team to hit in order to deliver the project on time.
 
