@@ -22,9 +22,13 @@ We segment our work (content) by:
 
 These segments are used to create matrixes that help determine content volume priorities and targets (i.e., how much brand awareness marketing are we going to create vs. direct response content?).
 
-### Be Human and Don't Talk About (or to) Yourself
+### Make Sure Roles, Responsibilities and Process are Clear.
 
-Social proof and credibility is important, but your message should not be “we are so wonderful/established/massive, you should do business with us.” Your writing must connect with each customer individually, communicating real benefits that matter to them or solve problems/needs they have. The worst thing we can do is describe product features in a way our audience doesn’t care about or understand. You cannot bore someone into a purchase.
+Don't leave people guessing how to do their job or who's responsible for what. Lack of clarity creates inefficiency and mediocre work. Ensure through documentation, communication, and repetition that we establish the 'swim lanes' or guard rails for how work should be done. Leave enough room for creativity and trying to find shortcuts, but make sure everyone is oriented in the right direction first and knows how to work together before you start any work.
+
+### Be Human. Put Customers First. Don't Talk About (or to) Yourself
+
+Social proof and credibility is important, but our message should never be “we are so wonderful/established/massive, you should do business with us.” Our work must connect with each customer individually, communicating real benefits that matter to them or solving problems/needs they have. The worst thing we can do is describe product features in a way our audience doesn’t care about or understand. You cannot bore someone into a purchase. You can't really help someone if you don't identify with them and care about their challenge(s).
 
 
 ## Step 1 - Brief
