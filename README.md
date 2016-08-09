@@ -110,7 +110,7 @@ All feedback on the proposal should be centralized, provided at the same time, a
 #####Owner
 Marketer or Business Lead
 
-The scope defines what we are making, to the content inventory level. The Marketer reviews the proposal to ensure we are solving the problem we set out in the brief, we are creating everything that needs to be made, and all technical and operational feasibility of the proposed solution are agreed upon.
+The scope defines what we are making, to the content inventory level. The Marketer or Business Lead reviews the proposal to ensure we are solving the problem we set out in the brief, we are creating everything that needs to be made, and all technical and operational feasibility of the proposed solution are agreed upon. Have any other stakeholders (legal, compliance, executive team, corporate communications) who should review the scope review and sign off on it as well.
 
 The scope extends the proposal description to create team alignment and clarify on the following:
 
@@ -124,7 +124,7 @@ Once scope has been defined project budget can be allocated across executions to
 The scope states the key metrics we’re going to use to measure if the project was successful.
 
 #####Timelines
-Agreed upon key milestones for the team to hit in order to deliver the project on time.
+Agreed upon key milestones for the team to hit in order to deliver the project on time. If a media plan needs to be developed and media needs to be bought, begin completing these steps. 
 
 ## Step 4 - Development
 
@@ -168,7 +168,7 @@ Now our channel leads execute their distribution and media plan(s). Channel owne
 ## Step 9 - Analysis
 
 #####Owner
-Marketer
+Analytics Lead
 
-How did we do? The Marketer is tasked with compiling reports on the effectiveness of the project based on the measurement KPI’s defined in the project scope. These reports are shared with stakeholders, the project team and wider marketing team.
+How did we do? The Analytics Lead is tasked with compiling reports on the effectiveness of the project based on the measurement KPI’s defined in the project scope. These reports are shared with stakeholders, the project team and wider marketing team. For larger campaigns, fill out a post-mortem analysis document (or slide presentation) and convene a one hour meeting to review and discuss it. Always look for learning and improvement opportunities, as well as any ways future work can build on past work. 
 
