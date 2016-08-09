@@ -99,3 +99,49 @@ The scope states the key metrics we’re going to use to measure if the project 
 #####Timelines
 Agreed upon key milestones for the team to hit in order to deliver the project on time.
 
+## Step 4 - Development
+
+#####Owner
+Project Lead
+
+Development of the solution. This includes copywriting, script development, visual design, storyboards etc. Items that map out the entire experience of the project. Feedback and concepts are iterated on. If pre-development isn't necessary, you can skip ahead to Step 5.
+
+## Step 5 - Final Development Review 
+
+#####Owner
+Marketer or Business Lead
+
+Finished development work is presented to directors, executives, and stakeholders to get the green light for the project to move into the execution stage (final production). All feedback on the proposal should be centralized, provided at the same time, and stored in Percolate. When necessary, a short review meeting should be convened by the project stakeholders to collect and agree on feedback before providing it to the creative or campaign team that responded to the brief. Iterate fast, provide feedback all at once, and come to a firm decision on the course forward as quickly as possible. 
+
+The marketer is responsible to coordinate the review and ensure all feedback is given to the project team in timely manner. Further development work is carried out if required. 
+
+## Step 6 - Production
+
+#####Owner
+Project Lead
+
+Awesome, now we're getting extra creative and really making stuff. This is where all of the inventoried deliverables for the project or campaign are created. This step may include web development, graphic design, filming, printing, working with vendors, working with partners, or working with event production partners.
+
+##  Step 7 - Q&A 
+
+#####Owner
+Project Lead
+
+Making sure everything works. Based on the nature of project this could be browser based, proofreading, film review etc. The goal here is for the project team to ensure we are ready to distribute world class marketing executions.
+
+
+## Step 8 - Distribution
+
+#####Owner
+Marketer
+
+Executing the distribution plan. The Marketer owns the distribution across all defined channels, external and internal. On occasions they will collaborate with other member of the marketing team to support the distribution.
+
+
+## Step 9 - Analysis
+
+#####Owner
+Marketer
+
+How did we do? The Marketer is tasked with compiling reports on the effectiveness of the project based on the measurement KPI’s defined in the project scope. These reports are shared with stakeholders, the project team and wider marketing team.
+
