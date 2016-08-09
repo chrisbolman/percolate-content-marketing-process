@@ -1,7 +1,7 @@
 # Percolate's Content Marketing Process (M-WIP 2.0)
 This documentation lays out Percolate's approach to content marketing. This is the process the marketing department follows to move work from concept through execution, and can be used as a reference for campaign management, business process design, or content marketing / brand editorial. This system is designed for an integrated team of 10-20 members, including creative services, but can be adapted and scaled up or down to fit the needs of your business. While it's not perfect, we've found it to be a smart, consistent, and efficient way to work, and continue to look for opportunities to improve and optimize it. While it helps if you implement this process alongside your use of [Percolate] (https://percolate.com), our hope is this document serves as a helpful reference and thought-starter for both customers and non-customers.
 
-If you have any questions or suggestions, please email: chris.bolman@percolate.com
+If you have any questions or suggestions for improvement, please email: chris.bolman@percolate.com
 
 # Team Responsibilities / Accountability Matrix
 Clear roles, responsibilities, and decision-makers minimize decision points and help work get done faster. We start by documenting each step (phase) of our content marketing or campaign process, as well as who's involved at each step, and what we expect from them.
