@@ -62,20 +62,16 @@ Upfront the Marketer and Creative, Project, or Campaign Lead should agree how mu
 
 Proposal template structure:
 
-Solution
-All project proposals have a written explanation of the solution. Depending on type of project this description may be supported by a sitemap, wireframes, storyboards, copy direction, concept for a design system, speaker list, photography direction, paid plan, theme of an event. 
+#####Solution
+All project proposals have a written explanation of the solution. Depending on type of project this description may be supported by sitemaps, wireframes, storyboards, copy direction, concept for a design system, speaker proposal, photography direction, paid media plan, or mood board. 
 
-Call to action
-Outline how are we going to drive people to take the desired action.
+#####Call to action
+Outline how are we going to pursuade people to take our desired action.
 
-Distribution plan
-Outline how we’re going to get this product in front of our target audience.
+#####Distribution plan
+Outline how we’re going to get this product in front of the people it's meant for.
 
-Reviews will be scheduled with through this proposal period to gather informal feedback from stakeholders.
-
-A proposal document forms a draft of our project scope. 
-
-[TBD - insert link to example]
+The proposal document forms the draft for finalizing the project's scope. 
 
 All feedback on the proposal should be centralized, provided at the same time, and stored in Percolate. When necessary, a short review meeting should be convened by the project stakeholders to collect and agree on feedback before providing it to the creative or campaign team that responded to the brief. Iterate fast, provide feedback all at once, and come to a firm decision on the course forward as quickly as possible. 
 
