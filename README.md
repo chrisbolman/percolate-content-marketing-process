@@ -14,11 +14,11 @@ We operate around a few guiding principles:
 
 ### Segment
 
-+ We segment our work (content) by:
-..1. Stage of the buyer journey
-..2. Business objective
-..3. Target audience (the type of person we're looking to reach and persuade)
-..4. Geography (market, location, or city)
+We segment our work (content) by:
++ Stage of the buyer journey
++ Business objective
++ Target audience (the type of person we're looking to reach and persuade)
++ Geography (market, location, or city)
 
 These segments are used to create matrixes that help determine content volume priorities and targets (i.e., how much brand awareness marketing are we going to create vs. direct response content?).
 
