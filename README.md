@@ -45,7 +45,8 @@ Brief template structure:
 What is the business or creative problem we’re trying to solve? Why does it matter?
 
 #####Target Audience
-Who are we trying to influence? What do we want them to feel? Like to any audience research, interviews, and/or profiles when applicable. 
+Who are we trying to influence? What do we want them to feel? Like to any audience research, interviews, and/or profiles when applicable. Important: why will they care about whatever we're doing? How are we helping them?
+
 #####Message / Experience
 What is the most important thing we're looking to communicate? How does this message tie back to the overall story or narrative we're looking to further? How does it relate to a product, brand, and/or consumer truth?
 
