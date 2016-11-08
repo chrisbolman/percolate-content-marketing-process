@@ -6,7 +6,7 @@ If you have any questions or suggestions for improvement, please email: chris.bo
 # Team Responsibilities / Accountability Matrix
 Clear roles, responsibilities, and decision-makers minimize decision points and help work get done faster. We start by documenting each step (phase) of our content marketing or campaign process, as well as who's involved at each step, and what we expect from them.
 ![alt tag](https://raw.githubusercontent.com/ChrisBolman/percolate-content-marketing-process/master/images/percolate-wip-marketing-responsibility-matrix-v1.png)
-As you can see there are nine steps for each campaign, project, or piece of content. Each step does not need to be observed and followed to the tee, but each step should at least be considered, like a checklist. Before moving to the next step, whoever's resposible for the project (or for moving it from its current step the next step) must make sure they've satisfied the requirements at that step (or that the requirements or the step itself doesn't apply in this particular case). 
+As you can see there are nine steps for each campaign, project, or piece of content. Each step does not need to be observed and followed precisely, but each step should at least be considered, like a checklist. Before moving to the next step, whoever's resposible for the project (or for moving it from its current step the next step) must make sure they've satisfied the requirements at that step (or that the requirements or the step itself doesn't apply in this particular case). 
 
 # Approach and Guiding Principles
 
@@ -14,8 +14,8 @@ We operate around a few guiding principles:
 
 ### Segment
 
-We segment our work (content) by:
-+ Stage of the buyer journey
+We segment our work (campaigns and content) by:
++ Stage of the customer journey
 + Business objective
 + Target audience (the type of person we're looking to reach and persuade)
 + Geography (market, location, or city)
